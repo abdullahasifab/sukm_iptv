@@ -2,7 +2,7 @@
 
     <!-- WhatsApp Button -->
     <button class="whatsapp-btn" id="whatsappBtn">
-    <a href="https://api.whatsapp.com/send?phone=923219604344" target="_blank">
+    <a href="" target="_blank">
         <img src="assets/whatsapp.webp" alt="WhatsApp">
     </a>
 </button>
